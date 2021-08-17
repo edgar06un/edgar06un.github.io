@@ -51,11 +51,9 @@ a:hover{
     border-radius: 30px;
 }
 footer{
+     font-size:0.8em;
     text-align: center;
     padding:5px;
     background-color: rgb(77, 77, 77);
     color:rgb(206, 206, 206);
-}
-footer p{
-    font-family:0.8em;
 }
