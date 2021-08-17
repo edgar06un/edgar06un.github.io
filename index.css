@@ -33,7 +33,7 @@ h1,#head p{
 }
 a{
     display: flex;
-    height: 3.5em;
+    height: 4em;
     margin-top: 5px;
     justify-content: center;
     align-items: center;
@@ -41,7 +41,7 @@ a{
     background-color: rgba(130, 190, 190, 0.63);
     color:black;
     min-width: 35%;
-    font-size: large;
+    font-size: medium;
     font-weight: 600;
     transition: all .2s;
 }
