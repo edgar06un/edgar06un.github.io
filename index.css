@@ -33,7 +33,7 @@ h1,#head p{
 }
 a{
     display: flex;
-    height: 5em;
+    height: 3.5em;
     margin-top: 5px;
     justify-content: center;
     align-items: center;
@@ -51,6 +51,7 @@ a:hover{
     border-radius: 30px;
 }
 footer{
+    font-family:0.8em;
     text-align: center;
     padding:5px;
     background-color: rgb(77, 77, 77);
